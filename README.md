@@ -1,2 +1,13 @@
-# Design-of-Grid-Integrated-Microgrid-System-using-MATLAB
-Final Year B.Tech Project focused on the design and simulation of a Solar PV based Grid Integrated Microgrid System using MATLAB/Simulink. The project includes modeling of solar PV array, boost converter, inverter, and load system with MPPT implementation for efficient power extraction. The system performance was analyzed under different load conditions to study voltage regulation, power output, and overall stability of the microgrid.
+# Design of Grid Integrated Microgrid System using MATLAB
+
+This project presents the design and simulation of a solar PV based grid integrated microgrid system using MATLAB/Simulink.
+
+## Features
+- Solar PV system
+- MPPT implementation
+- Boost converter
+- Voltage and power analysis
+
+## Software Used
+- MATLAB
+- Simulink
